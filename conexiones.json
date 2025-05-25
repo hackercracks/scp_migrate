@@ -1,0 +1,9 @@
+{
+    "SRV-COMIDILIOS": {
+        "usuario": "consultasdigitales",
+        "ip": "192.168.1.9",
+        "puerto": "",
+        "ruta": "/home/consultasdigitales",
+        "contrasena": "Aplication1001.CD"
+    }
+}
