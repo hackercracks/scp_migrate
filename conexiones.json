@@ -1,9 +1,9 @@
 {
-    "SRV-COMIDILIOS": {
-        "usuario": "consultasdigitales",
+    "MYEQUIPO": {
+        "usuario": "user",
         "ip": "192.168.1.9",
         "puerto": "",
-        "ruta": "/home/consultasdigitales",
-        "contrasena": "Aplication1001.CD"
+        "ruta": "/home/user",
+        "contrasena": "password"
     }
 }
